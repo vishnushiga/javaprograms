@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class LoanIntrest {
 	double CalculateIntrest(double principle,double rate,int time) {
+		
 		double simpleintrest = ((principle*rate*time)/100);
 		System.out.println("Total Bank Loan Intrest :" +simpleintrest);
 		return simpleintrest;
