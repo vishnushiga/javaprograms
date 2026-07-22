@@ -6,6 +6,7 @@ public class LoanIntrest {
 		
 		double simpleintrest = ((principle*rate*time)/100);
 		System.out.println("Total Bank Loan Intrest :" +simpleintrest);
+		
 		return simpleintrest;
 	}
 
