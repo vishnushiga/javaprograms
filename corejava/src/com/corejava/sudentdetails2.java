@@ -2,6 +2,7 @@ package com.corejava;
 import java.util.Scanner;
 
 public class sudentdetails2 {
+	
 	int z(int a, int b) {
 		int c = a + b;
 		System.out.println(c);
