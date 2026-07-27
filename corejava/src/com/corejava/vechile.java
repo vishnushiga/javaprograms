@@ -7,7 +7,7 @@ public class vechile {
 	double price;
 	
 	
-	vechile(){
+	vechile() {
 		this("TATA");
 		System.out.println("No Arg-Password");
 //		this("TATA");

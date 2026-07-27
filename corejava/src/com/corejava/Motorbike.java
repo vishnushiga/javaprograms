@@ -8,7 +8,7 @@ public class Motorbike {
 	int milege;
 	double price;
 	
-	Motorbike(){
+	Motorbike() {
 		this("ROYAL ENFIELD");
 	}
     Motorbike(String company){

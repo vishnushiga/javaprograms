@@ -1,13 +1,13 @@
 package com.corejava;
 import java.util.Scanner;
 
-//This program was this() constructor using Scanner;
+//This program was this() constructor using Scanner; 
 public class product {
 	String productName;
 	double price;
 	int quantity;
 	
-	product(){
+	product() {
 	System.out.println("No Arg constructor called ");
 	this("Iphone 17");
 	}
