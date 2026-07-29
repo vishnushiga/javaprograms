@@ -23,6 +23,8 @@ public class Operators {
 		 System.out.println("Division of Two Numbers       :"+(a/b));
 		 System.out.println("Modulus of two Numbers        :"+(a%b));
 		 System.out.println("------------------------------------");
+		 System.out.println("------------------------------------");
+
 //	Unary Operators i) Increment
 //		  e = a++;
 //		  f = ++b;
@@ -34,6 +36,7 @@ public class Operators {
 		  System.out.println("Unary Increment b :"+(++b));
 		  System.out.println("Unary Decrement c :"+(--c));
 		  System.out.println("Unary Decrement d :"+(d--));
+		  System.out.println("Also in Unary Operators we have +, -, !, ~ ");
 
 	}
 
