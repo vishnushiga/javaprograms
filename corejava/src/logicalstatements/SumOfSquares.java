@@ -7,7 +7,7 @@ public class SumOfSquares {
 		 int sum =0;
 		 for(int i=5;i<=10;i++) {
 			 int sqr = i*i;
-			 sum += sqr; 
+			 sum +=sqr; 
 		 }
 		 System.out.println(sum);
 	}
