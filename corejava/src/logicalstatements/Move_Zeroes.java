@@ -1,4 +1,5 @@
 package logicalstatements;
+//Move all zeros to the end of the array while keeping the order of the other numbers unchanged.
 import java.util.Scanner;
 public class Move_Zeroes {
 	

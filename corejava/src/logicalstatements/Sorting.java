@@ -1,4 +1,5 @@
 package logicalstatements;
+//Check whether an array is sorted in strictly ascending order.
 import java.util.Arrays;
 import java.util.Scanner;
 public class Sorting {

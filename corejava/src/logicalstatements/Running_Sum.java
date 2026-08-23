@@ -1,5 +1,8 @@
 package logicalstatements;
+//   Running Sum
 
+//Problem: Return an array where each element at index i is the sum of all elements
+//from index 0 to i.
 import java.util.Arrays;
 
 public class Running_Sum {
